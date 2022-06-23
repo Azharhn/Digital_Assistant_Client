@@ -70,7 +70,7 @@ We solicit and welcome comments, help, documentation in improving the client.
             udaauthdata.id='123456789';
             // user emailid or name can be passed.
             udaauthdata.email='dummy@dummy.com';
-        })();
+        })();chrome-plugin/css/app.vantagecircle.co.in.css
     </script>
     ```
 3. For disabling the recording sequence functionality for unwanted users you can just make the below attribute true post
